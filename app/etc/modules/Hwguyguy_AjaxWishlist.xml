@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<Hwguyguy_AjaxWishlist>
+			<active>true</active>
+			<codePool>local</codePool>
+		</Hwguyguy_AjaxWishlist>
+	</modules>
+</config>
